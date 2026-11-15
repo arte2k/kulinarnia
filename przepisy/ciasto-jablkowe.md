@@ -5,6 +5,8 @@ Inspirowane: NYT Cooking, *Classic Apple Pie*. Miary przeliczone na system metry
 
 **Czas łączny:** ok. 5 godzin (większość to chłodzenie i studzenie).
 
+> Przepis jest na formę metalową 23–25 cm. Dla ceramicznej formy 20 cm zobacz sekcję „Wersja na formę 20 cm" na końcu.
+
 ## Ciasto kruche
 
 - mąka pszenna typ 450/500: 315 g
@@ -64,3 +66,13 @@ Inspirowane: NYT Cooking, *Classic Apple Pie*. Miary przeliczone na system metry
 - Nie mieszać ciasta dłużej niż potrzeba, bo robi się twarde i kurczy się przy pieczeniu.
 - Mąka ziemniaczana zagęszcza szybciej niż kukurydziana: po posypaniu gotować tylko do pierwszych bąbelków.
 - Jeśli brzegi za szybko brązowieją, przykryć je paskami folii aluminiowej.
+
+## Wersja na ceramiczną formę 20 cm (ok. 65% przepisu)
+
+Ilości przeliczone proporcjonalnie, do sprawdzenia przy pierwszym użyciu. Przy okazji ciut mniej cukru (patrz notatki).
+
+**Ciasto kruche:** mąka 205 g, cukier 8 g, sól ½ łyżeczki, masło 146 g, zimna woda 4–5 łyżek.
+
+**Nadzienie:** jabłka ok. 1,05 kg po obraniu (ok. 1,3 kg przed), masło 20 g, cukier brązowy ok. 50 g, cukier biały ok. 10 g, cynamon ⅔ łyżeczki, imbir ⅓ łyżeczki, gałka muszkatołowa ⅓ łyżeczki, goździki szczypta, sól szczypta, skrobia 1⅓ łyżki (ok. 11 g), sok z cytryny 1 łyżeczka, skórka z cytryny ⅓ łyżeczki.
+
+**Pieczenie:** te same temperatury i etapy. Ceramika wolniej przewodzi ciepło, więc spód może potrzebować do 10 minut dłużej. Po upieczeniu postawić na kratce, nie na zimnym blacie.

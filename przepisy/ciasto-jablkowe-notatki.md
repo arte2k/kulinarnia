@@ -10,11 +10,15 @@ Zmiany względem przepisu:
 
 Obserwacje przed pieczeniem:
 - nadzienie wyszło za słodkie (za dużo cukru)
+- użyta forma: ceramiczna, ok. 20 cm (przepis jest na metalową 23–25 cm), więc do formy weszła tylko ok. połowa jabłek
 
 Do poprawy następnym razem:
 - zmniejszyć cukier brązowy ze 110 g do ok. 70–80 g i biały z 25 g do ok. 10 g
 - dodać więcej soku z cytryny (ok. 1 łyżeczki więcej) albo użyć kwaśniejszych jabłek (Antonówka)
 - spróbować nadzienie po ostudzeniu, przed włożeniem do ciasta
+
+- do ceramicznej formy 20 cm zmniejszyć całą porcję do ok. 65% (przeliczone ilości są na końcu przepisu)
+- w ceramicznej formie spód może potrzebować do 10 minut dłużej, sprawdzać po wyglądzie
 
 Do uzupełnienia po degustacji:
 - jabłka (odmiana, konsystencja, słodycz):
