@@ -75,4 +75,4 @@ Ilości przeliczone proporcjonalnie, do sprawdzenia przy pierwszym użyciu. Przy
 
 **Nadzienie:** jabłka ok. 1,05 kg po obraniu (ok. 1,3 kg przed), masło 20 g, cukier brązowy ok. 50 g, cukier biały ok. 10 g, cynamon ⅔ łyżeczki, imbir ⅓ łyżeczki, gałka muszkatołowa ⅓ łyżeczki, goździki szczypta, sól szczypta, skrobia 1⅓ łyżki (ok. 11 g), sok z cytryny 1 łyżeczka, skórka z cytryny ⅓ łyżeczki.
 
-**Pieczenie:** te same temperatury i etapy. Ceramika wolniej przewodzi ciepło, więc spód może potrzebować do 10 minut dłużej. Po upieczeniu postawić na kratce, nie na zimnym blacie.
+**Pieczenie:** te same temperatury i etapy. Ceramika wolniej przewodzi ciepło, więc spód może potrzebować do 10 minut dłużej w drugim etapie (190°C), a pierwszy etap w 220°C zostaje bez zmian (20 min). Po upieczeniu postawić na kratce, nie na zimnym blacie.

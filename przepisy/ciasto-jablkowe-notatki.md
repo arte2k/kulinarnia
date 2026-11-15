@@ -18,7 +18,7 @@ Do poprawy następnym razem:
 - spróbować nadzienie po ostudzeniu, przed włożeniem do ciasta
 
 - do ceramicznej formy 20 cm zmniejszyć całą porcję do ok. 65% (przeliczone ilości są na końcu przepisu)
-- w ceramicznej formie spód może potrzebować do 10 minut dłużej, sprawdzać po wyglądzie
+- w ceramicznej formie spód może potrzebować do 10 minut dłużej w drugim etapie (190°C), pierwszy etap 20 min w 220°C bez zmian; sprawdzać po wyglądzie
 
 Do uzupełnienia po degustacji:
 - jabłka (odmiana, konsystencja, słodycz):
