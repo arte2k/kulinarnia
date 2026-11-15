@@ -8,4 +8,4 @@ Moje przepisy i notatki kulinarne. Notatki do każdego przepisu leżą obok nieg
 
 ## Zdjęcia
 
-Folder `zdjecia/`, wstawiane do przepisów jako `![opis](../zdjecia/nazwa.jpg)`.
+Zdjęcia w podfolderach `zdjecia/<kategoria>/` (np. `zdjecia/ciasta/`), wstawiane do przepisów jako `![opis](../zdjecia/ciasta/nazwa.jpg)`.

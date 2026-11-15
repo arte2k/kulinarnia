@@ -27,6 +27,6 @@ Do uzupełnienia po degustacji:
 - czas i temperatura w moim piekarniku:
 - co zmienić następnym razem:
 
-![Gotowe ciasto, wypiek 1](../zdjecia/ciasto-jablkowe-2026-11-15.jpg)
+![Gotowe ciasto, wypiek 1](../zdjecia/ciasta/ciasto-jablkowe-2026-11-15.jpg)
 
 Wypiek 1: ceramiczna forma 20 cm, wierzch równomiernie złoty, cukier w kryształkach na wierzchu.
