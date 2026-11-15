@@ -1,11 +1,11 @@
 # kulinarnia
 
-Moje przepisy i notatki kulinarne.
+Moje przepisy i notatki kulinarne. Każdy przepis to osobny plik HTML (zawiera też notatki i miejsce na zdjęcia).
 
 ## Przepisy
 
-- [Ciasto jabłkowe](przepisy/ciasto-jablkowe.md)
+- [Ciasto jabłkowe](przepisy/ciasto-jablkowe.html)
 
-## Notatki
+## Zdjęcia
 
-- [Ciasto jabłkowe: ulepszenia](notatki/ciasto-jablkowe-ulepszenia.md)
+Folder `zdjecia/`, wstawiane do przepisów znacznikiem `<img src="../zdjecia/nazwa.jpg">`.
