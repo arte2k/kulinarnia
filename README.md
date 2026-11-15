@@ -1,11 +1,22 @@
 # kulinarnia
 
-Moje przepisy i notatki kulinarne. Notatki do każdego przepisu leżą obok niego w folderze `przepisy/`.
+Moje przepisy i notatki kulinarne.
+
+## Układ
+
+```
+przepisy/
+  <przepis>/
+    przepis.md
+    wykonania/
+      <data>/
+        notatki.md
+        zdjęcia
+```
+
+Każdy wypiek (wykonanie) ma własny folder z datą, w którym są notatki i zdjęcia.
 
 ## Przepisy
 
-- [Ciasto jabłkowe](przepisy/ciasto-jablkowe.md) ([notatki](przepisy/ciasto-jablkowe-notatki.md))
-
-## Zdjęcia
-
-Zdjęcia w podfolderach `zdjecia/<kategoria>/` (np. `zdjecia/ciasta/`), wstawiane do przepisów jako `![opis](../zdjecia/ciasta/nazwa.jpg)`.
+- [Ciasto jabłkowe](przepisy/ciasto-jablkowe/przepis.md)
+  - wykonania: [2026-11-15](przepisy/ciasto-jablkowe/wykonania/2026-11-15/notatki.md)
