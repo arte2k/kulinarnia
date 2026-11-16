@@ -20,3 +20,5 @@ Każdy wypiek (wykonanie) ma własny folder z datą, w którym są notatki i zdj
 
 - [Ciasto jabłkowe](przepisy/ciasto-jablkowe/przepis.md)
   - wykonania: [2026-11-15](przepisy/ciasto-jablkowe/wykonania/2026-11-15/notatki.md)
+- [Łosoś z piekarnika z cytryną i czosnkiem](przepisy/losos-z-piekarnika/przepis.md)
+  - wykonania: [2026-11-16](przepisy/losos-z-piekarnika/wykonania/2026-11-16/notatki.md)
