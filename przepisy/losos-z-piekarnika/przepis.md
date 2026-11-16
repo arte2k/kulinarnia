@@ -20,6 +20,15 @@ Filet z łososia ze skórą, grubość ok. 5 cm, 2 porcje.
 3. Piec 18–22 min, aż w najgrubszym miejscu będzie 50–55°C albo mięso zacznie się rozdzielać na płatki przy naciśnięciu widelcem.
 4. Odstawić na 3 min, skropić sokiem z cytryny.
 
+## Wariant z turbo grillem (chrupiący wierzch)
+
+Nie piec całości na turbo grillu: przy filecie 5 cm wierzch spali się, zanim środek dojdzie.
+
+1. Przygotować rybę jak wyżej i piec 15–18 min w 200°C (góra-dół).
+2. Przełączyć na turbo grill (grill z termoobiegiem) i dopiec ostatnie ok. 3 min, aż wierzch się zrumieni.
+3. Pilnować czosnku, żeby się nie przypalił. Gotowość sprawdzać tak samo: 50–55°C w środku albo płatki przy naciśnięciu widelcem.
+4. Odstawić na 3 min i skropić sokiem z cytryny.
+
 ## Podawanie
 
 Z ryżem albo z pieczonymi ziemniakami i szparagami.
