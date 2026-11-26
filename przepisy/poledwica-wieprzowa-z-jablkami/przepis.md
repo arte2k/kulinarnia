@@ -37,5 +37,5 @@ Sprawdzona wersja: żeliwny garnek, 200°C góra-dół, potem termoobieg 180°C 
 
 ## Wskazówki
 
-- Miękkie owoce (np. dojrzałą gruszkę) dodać dopiero w kroku 5, twardsze jabłko można dać wcześniej, w kroku 4.
+- Jeśli jabłko i gruszka mają być bardzo miękkie, dodać je już w kroku 4, razem z ziemniakami i marchwią.
 - Czas w kroku 6 zależy od grubości polędwicy: najlepiej sprawdzać termometrem, a nie zegarkiem.
