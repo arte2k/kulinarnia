@@ -24,3 +24,5 @@ Każdy wypiek (wykonanie) ma własny folder z datą, w którym są notatki i zdj
   - wykonania: [2026-11-16](przepisy/losos-z-piekarnika/wykonania/2026-11-16/notatki.md)
 - [Pieczona polędwiczka z indyka w musztardzie i ziołach](przepisy/poledwiczka-z-indyka/przepis.md)
   - wykonania: [2026-11-20](przepisy/poledwiczka-z-indyka/wykonania/2026-11-20/notatki.md)
+- [Polędwica wieprzowa z jabłkami, gruszką i warzywami](przepisy/poledwica-wieprzowa-z-jablkami/przepis.md)
+  - wykonania: [2026-11-26](przepisy/poledwica-wieprzowa-z-jablkami/wykonania/2026-11-26/notatki.md)
